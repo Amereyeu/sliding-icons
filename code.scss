@@ -37,7 +37,7 @@ body {
 .partners__logo {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  height: 290px;
+  height: 250px;
 
   @include break($medium) {
     display: flex;
